@@ -1,0 +1,3 @@
+C:/Users/Jack Lin/Desktop/interview_project/build_debug/CMakeFiles/interview_project.dir
+C:/Users/Jack Lin/Desktop/interview_project/build_debug/CMakeFiles/ALL_BUILD.dir
+C:/Users/Jack Lin/Desktop/interview_project/build_debug/CMakeFiles/ZERO_CHECK.dir

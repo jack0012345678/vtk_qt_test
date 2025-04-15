@@ -1,0 +1,10 @@
+^C:\USERS\JACK LIN\DESKTOP\INTERVIEW_PROJECT\BUILD_DEBUG\CMAKEFILES\109EDED8C61940867B3DB27D825D4A59\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/Jack Lin/Desktop/interview_project" "-BC:/Users/Jack Lin/Desktop/interview_project/build_debug" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/Jack Lin/Desktop/interview_project/build_debug/interview_project.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

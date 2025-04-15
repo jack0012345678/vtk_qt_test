@@ -1,0 +1,25 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+      {
+        "label": "build with cl.exe",
+        "type": "shell",
+        "command": "cl",
+        "args": [
+          "/EHsc",
+          "main.cpp"
+        ],
+        "options": {
+          "shell": {
+            "executable": "cmd.exe",
+            "args": ["/k", "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Auxiliary\\Build\\vcvars64.bat\" &&"]
+          }
+        },
+        "group": "build",
+        "problemMatcher": []
+      }
+    ],
+    "configurations": [
+    
+    ]
+  }
