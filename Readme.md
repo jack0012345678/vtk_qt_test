@@ -22,6 +22,6 @@ cmake -B build_debug -DCMAKE_BUILD_TYPE=Debug
 cmake --build build_debug --config Debug
 
 # 3. 將Qt相關 DLL複製到執行檔目錄
-windeployqt --debug build_debug/Debug/interview_project.exe
+windeployqt --debug build_debug/Debug/vtk_qt_test.exe
 
 # 4. 將編譯好的VTK相關DLL相關DLL複製到執行檔目錄

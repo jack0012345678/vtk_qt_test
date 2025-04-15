@@ -1,6 +1,6 @@
-^C:\USERS\JACK LIN\DESKTOP\INTERVIEW_PROJECT\BUILD_DEBUG\CMAKEFILES\109EDED8C61940867B3DB27D825D4A59\GENERATE.STAMP.RULE
+^E:\INTERVIEW_PROJECT\INTERVIEW_PROJECT\BUILD_DEBUG\CMAKEFILES\A5DE25F2AAC6A3B63A47EF96A7EE895A\GENERATE.STAMP.RULE
 setlocal
-"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/Jack Lin/Desktop/interview_project" "-BC:/Users/Jack Lin/Desktop/interview_project/build_debug" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/Jack Lin/Desktop/interview_project/build_debug/interview_project.sln"
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SE:/interview_project/interview_project -BE:/interview_project/interview_project/build_debug --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file E:/interview_project/interview_project/build_debug/vtk_qt_test.sln
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
