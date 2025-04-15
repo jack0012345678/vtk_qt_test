@@ -2,13 +2,13 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Users\Jack Lin\Desktop\interview_project\build_debug\x64\Debug\ZERO_CHECK</FullPath>
+      <FullPath>E:\interview_project\interview_project\build_debug\x64\Debug\ZERO_CHECK</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\Jack Lin\Desktop\interview_project\build_debug\Debug\interview_project.exe</FullPath>
+      <FullPath>E:\interview_project\interview_project\build_debug\Debug\vtk_qt_test.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Users\Jack Lin\Desktop\interview_project\build_debug\x64\Debug\ALL_BUILD</FullPath>
+      <FullPath>E:\interview_project\interview_project\build_debug\x64\Debug\ALL_BUILD</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
